@@ -19,9 +19,9 @@ Business-focused interpretation of financial data with decision-making insights:
 - <a href="https://github.com/Saniamuqthar/Nestle-Income-Statement-Analysis/blob/main/Income%20Statement%20Data%20Analysis.pptx">Nestle Income Statement Data Anaysis-Decision Making</a>
 - <a href="https://github.com/Saniamuqthar/Nestle-Income-Statement-Analysis/blob/main/Nestle%20Income%20Statement.pbix">Nestle Income Statement Power BI Dashboard</a>
 ## Dashboards
-## Excel:
--<a href="https://github.com/Saniamuqthar/Nestle-Income-Statement-Analysis/blob/main/Nestle%20IS%20Mini%20Excel%20DB.jpg">Excel Mini Dashboard</a>
-## PowerBi:
--<a href="https://github.com/Saniamuqthar/Nestle-Income-Statement-Analysis/blob/main/Nestle%20IS%20Power%20BI%20DB.jpg">Power BI Dashboard</a>
+- ## Excel:
+<a href="https://github.com/Saniamuqthar/Nestle-Income-Statement-Analysis/blob/main/Nestle%20IS%20Mini%20Excel%20DB.jpg">Excel Mini Dashboard</a>
+- ## PowerBi:
+<a href="https://github.com/Saniamuqthar/Nestle-Income-Statement-Analysis/blob/main/Nestle%20IS%20Power%20BI%20DB.jpg">Power BI Dashboard</a>
 ## Author
--<a href="https://github.com/Saniamuqthar">Author</a>
+<a href="https://github.com/Saniamuqthar">Author</a>
