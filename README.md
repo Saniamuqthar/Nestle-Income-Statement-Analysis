@@ -15,13 +15,13 @@ Business-focused interpretation of financial data with decision-making insights:
   - Margin improvement ideas
   - Capital efficiency suggestions
 ## Files Included
--<a href="https://github.com/Saniamuqthar/Nestle-Income-Statement-Analysis/blob/main/Nestle%20Income%20Statement.xlsx">Nestle Income Statement Excel Data</a>
+- <a href="https://github.com/Saniamuqthar/Nestle-Income-Statement-Analysis/blob/main/Nestle%20Income%20Statement.xlsx">Nestle Income Statement Excel Data</a>
 - <a href="https://github.com/Saniamuqthar/Nestle-Income-Statement-Analysis/blob/main/Income%20Statement%20Data%20Analysis.pptx">Nestle Income Statement Data Anaysis-Decision Making</a>
 - <a href="https://github.com/Saniamuqthar/Nestle-Income-Statement-Analysis/blob/main/Nestle%20Income%20Statement.pbix">Nestle Income Statement Power BI Dashboard</a>
 ## Dashboards
-# Excel:
+## Excel:
 -<a href="https://github.com/Saniamuqthar/Nestle-Income-Statement-Analysis/blob/main/Nestle%20IS%20Mini%20Excel%20DB.jpg">Excel Mini Dashboard</a>
-# PowerBi:
+## PowerBi:
 -<a href="https://github.com/Saniamuqthar/Nestle-Income-Statement-Analysis/blob/main/Nestle%20IS%20Power%20BI%20DB.jpg">Power BI Dashboard</a>
 ## Author
 -<a href="https://github.com/Saniamuqthar">Author</a>
