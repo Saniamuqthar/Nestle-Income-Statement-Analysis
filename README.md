@@ -1,7 +1,7 @@
 # Nestle-Income-Statement-Analysis
 A fictional financial model of Nestlé's income statement for the years 2022 to 2024, including strategic decision-making analysis, Power BI dashboard, Excel financial ratios, and business insights.
 ## Data Set
-- Clean, structured Excel file with fictional financial data (2022–2024).
+-  Clean, structured Excel file with fictional financial data (2022–2024).
 -  Interactive Power BI dashboard that visualizes income statement metrics, margin trends, and KPI cards.
 -  Screenshots of the dashboard and charts for easy viewing or embedding in resumes/portfolios.
 ## Tools Used
